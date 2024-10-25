@@ -1,0 +1,22 @@
+# wandb
+pandas
+numpy
+# numba==0.51.1
+requests
+matplotlib
+transformers
+tqdm
+torch
+torchvision
+torchaudio
+jsonlines
+flash-attn # Flash-attn is incompatable with CUDA 11.2 on Anvil
+pynvml
+peft
+tabulate
+seaborn
+# Phi3
+tiktoken == 0.6.0
+einops
+pytest
+triton == 2.3.0
